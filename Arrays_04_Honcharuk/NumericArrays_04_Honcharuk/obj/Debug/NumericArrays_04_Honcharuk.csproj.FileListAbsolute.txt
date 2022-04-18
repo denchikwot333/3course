@@ -1,0 +1,16 @@
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.exe.config
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.exe
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.pdb
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.AssemblyReference.cache
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.SuggestedBindingRedirects.cache
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.CoreCompileInputs.cache
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.exe
+E:\programing\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.pdb
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.exe.config
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.exe
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\bin\Debug\NumericArrays_04_Honcharuk.pdb
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.AssemblyReference.cache
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.SuggestedBindingRedirects.cache
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.csproj.CoreCompileInputs.cache
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.exe
+D:\programing\с#\Arrays_04_Honcharuk\NumericArrays_04_Honcharuk\obj\Debug\NumericArrays_04_Honcharuk.pdb
